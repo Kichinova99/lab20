@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-        int num = 64; //na otsenku 3
+        int num = 64;
         int lg = 2;
         int lr = 4;
         int max_g = num / lg;
